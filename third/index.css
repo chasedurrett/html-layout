@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.text_box {
+  width: 100%;
+  height: 200px;
+  background-color: white;
+}
+.text_box p {
+  font-size: 1.5rem;
+  font-family: sans-serif;
+  width: 70%;
+  margin: 100px auto;
+}
+.row {
+  width: 100%;
+  height: 140px;
+}
+#blueSquare {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  display: inline-block;
+  margin: 20px 20px;
+}
+#header {
+  background-color: lightgrey;
+}
+#blue_bar {
+  background-color: blue;
+}
+#teal_bar {
+  background-color: turquoise;
+}
+#green_bar {
+  background-color: rgb(117, 163, 44);
+}
+#yellow_bar {
+  background-color: yellow;
+}
