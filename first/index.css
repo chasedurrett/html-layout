@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(196, 196, 196);
+}
+.grey_header {
+  background-color: rgb(82, 82, 82);
+  width: 100%;
+  height: 20vh;
+}
+.white_centerpiece {
+  margin: 0 auto;
+  background-color: white;
+  width: 75%;
+  height: 70vh;
+}
+.grey_footer {
+  background-color: rgb(82, 82, 82);
+  height: 10vh;
+  width: 75%;
+  margin: 0 auto;
+}
